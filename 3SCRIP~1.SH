@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Compilando articulo.tex (primera pasada)..."
+pdflatex articulo.tex
+echo "Segunda pasada para referencias..."
+pdflatex articulo.tex
+echo "Listo. El PDF generado es articulo.pdf"
