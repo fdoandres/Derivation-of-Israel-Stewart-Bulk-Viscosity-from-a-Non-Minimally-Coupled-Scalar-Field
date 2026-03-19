@@ -1,0 +1,2 @@
+# Derivation-of-Israel-Stewart-Bulk-Viscosity-from-a-Non-Minimally-Coupled-Scalar-Field
+We derive the Israel–Stewart relaxation equation for bulk viscous pressure from a real scalar field Ψ with non-minimal coupling to curvature. The derivation is carried out in full detail, showing explicitly how the transport coefficients τ (relaxation time) and ζ (bulk viscosity) emerge from the field parameters and background quantities.
